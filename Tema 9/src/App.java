@@ -5,18 +5,18 @@ public class App {
         cliente.edad = 21;
         cliente.nombre = "Lorka";
         cliente.telefono = "6184763517";
-        cliente.credito = 1000;
+        cliente.credito = 1100;
 
-        System.out.println("Nombre: " + cliente.nombre + "\nEdad: "  + cliente.edad  + "\nTeléfono: " + cliente.telefono + "\nCrédito: " + "$" + cliente.credito);
+        System.out.println("Nombre: " + cliente.nombre + "\nEdad: "  + cliente.edad  + " años" + "\nTeléfono: " + cliente.telefono + "\nCrédito: " + "$" + cliente.credito);
         
         Trabajador trabajador = new Trabajador();
         
         trabajador.edad = 33;
         trabajador.nombre = "Dorka";
         trabajador.telefono = "6121876535";
-        trabajador.salario = 50000;
+        trabajador.salario = 1850;
 
-        System.out.println("Nombre: " + trabajador.nombre + "\nEdad: " + trabajador.edad + "\nTeléfono: " + trabajador.telefono + "\nSalario: " + "$" + trabajador.salario);
+        System.out.println("Nombre: " + trabajador.nombre + "\nEdad: " + trabajador.edad + " años" + "\nTeléfono: " + trabajador.telefono + "\nSalario: " + "$" + trabajador.salario);
     }
 }
 
