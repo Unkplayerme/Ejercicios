@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e8e91ac-d3e3-43e6-be07-2ade1c01a36a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Tema 3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 3/Tema 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 3/com/example/Coches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 3/com/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 4/Tema 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 4/com/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema 8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/example/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tema 8/Tema 8.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F24InBo6gXo6bZMnqa2GqMTQwE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Softwart/Github/Unkplayerme/OBootcamp/2 Introducción a la Programación/Ejercicios/Tema 8&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e8e91ac-d3e3-43e6-be07-2ade1c01a36a" name="Changes" comment="" />
+      <created>1663676767311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663676767311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
